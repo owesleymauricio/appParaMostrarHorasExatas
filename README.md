@@ -1,0 +1,2 @@
+# appParaMostrarHorasExatas
+ mostraAhora
